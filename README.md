@@ -1,4 +1,5 @@
-### 👋 Hi, I’m Jenil
+[![Jenil's GitHub Banner](./assets/github-banner.png)](https://github.com/Jenil-Vekaria)
+
 - 🎓Graudated with Honors in Computer Science from Ryerson University 
 - 👀 I’m looking for entry level Software Developer/Full Stack Developer position
 - 🌱 I’m currently learning Next.js
