@@ -1,7 +1,7 @@
 [![Jenil's GitHub Banner](./assets/github-banner.png)](https://github.com/Jenil-Vekaria)
 
-- 🎓Graudated with Honors in Computer Science from Ryerson University 
 - 👀 I’m looking for entry level Software Developer/Full Stack Developer position
+- 🎓 Graduated with BSc in Computer Science from Ryerson University 
 - 🌱 I’m currently learning Next.js
 - 🛠  I’m working on  [Trackit - Issue and Project management system](https://github.com/Jenil-Vekaria/Trackit)
 - 📫 Find me on [LinkedIn](https://www.linkedin.com/in/jenilvekaria/)
@@ -9,7 +9,7 @@
 
 ## Skills
 
-##### Languages
+#### Languages
 <p>
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge"/>
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> 
@@ -17,7 +17,7 @@
     <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=for-the-badge" height="25"/>
  </p>
  
- ##### Front-End / Back-End
+ #### Front-End / Back-End
  
  <p>
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
@@ -32,7 +32,7 @@
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" height="25">
 </p>
  
-##### DevOps
+#### DevOps
 <p>
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=for-the-badge" height="25">
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=for-the-badge" height="25">
@@ -41,7 +41,7 @@
   <img alt="" src="" height="25">
 </p>
  
-##### Tools
+#### Tools
 <p>
   <img alt="JIRA" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=for-the-badge" height="25">
   <img alt="Confluence" src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff&style=for-the-badge" height="25">
