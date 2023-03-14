@@ -21,7 +21,7 @@
  
  <p>
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff&style=for-the-badge" height="25"/>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" height="25"/>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=for-the-badge" height="25">
   <img alt="Express.js" src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge" height="25">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" height="25">
