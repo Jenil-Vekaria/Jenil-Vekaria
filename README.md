@@ -1,6 +1,6 @@
 [![Jenil's GitHub Banner](./assets/github-banner.png)](https://github.com/Jenil-Vekaria)
 
-- 👀 I’m looking for entry level Software Developer/Full Stack Developer position
+- 👀 Seeking entry level Software Developer position
 - 🎓 Graduated with BSc in Computer Science from Ryerson University 
 - 🌱 I’m currently learning Next.js
 - 🛠  I’m working on  [Trackit - Issue and Project management system](https://github.com/Jenil-Vekaria/Trackit)
