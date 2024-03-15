@@ -1,6 +1,5 @@
 [![Jenil's GitHub Banner](./assets/github-banner.png)](https://github.com/Jenil-Vekaria)
 
-- 👀 Seeking entry level Software Developer position
 - 🎓 Graduated with BSc in Computer Science from Ryerson University 2022
 - 🌱 I’m currently learning AWS
 - 🛠  I’m working on  [Trackit - Issue and Project management system](https://github.com/Jenil-Vekaria/Trackit)
