@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning AWS
 - 🛠  I’m working on  [Trackit - Issue and Project management system](https://github.com/Jenil-Vekaria/Trackit)
 - 📫 Find me on [LinkedIn](https://www.linkedin.com/in/jenilvekaria/)
-- ⭐ Check out my [portfolio website](https://jenil-vekaria.netlify.app/) 
+- ⭐ Check out my [portfolio website]() 
 
 ## Skills
 
